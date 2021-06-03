@@ -1,0 +1,35 @@
+.row-comtainer{
+  line-height: 70px
+}
+
+.container-form{
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  margin: 1rem;
+  padding: 0 1rem;
+  min-height:  17rem;
+
+    
+}
+.boton-iniciar{
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+  
+}

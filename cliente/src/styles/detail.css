@@ -1,0 +1,15 @@
+.body-seccion{
+    background-color: #e9ecef;
+    border: solid 1px #000000;
+    border-radius: 10px;
+}
+.title{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
+.cuerpo{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}

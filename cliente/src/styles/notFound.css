@@ -1,0 +1,37 @@
+.error-container {
+    text-align: center;
+    height: 100%;
+}
+
+
+.div {
+    display: block;
+
+}
+
+.body {
+    font-family: "Whitney SSm A", "Whitney SSm B", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+    background-color: #2D72D9;
+    color: #fff;
+    -moz-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    height:100%;
+    width: 100%;
+}
+.p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.return {
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 400;
+    letter-spacing: -0.04em;
+    margin: 0;
+}
+.ejemplo{
+    background-image: 'https://www.cinco8.com/wp-content/uploads/2020/08/404.png';
+}

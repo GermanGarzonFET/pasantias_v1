@@ -1,0 +1,15 @@
+.btn-flotante {
+	font-size: 16px; /* Cambiar el tamaño de la tipografia */
+	text-transform: uppercase; /* Texto en mayusculas */
+	font-weight: bold; /* Fuente en negrita o bold */
+	color: #ffffff; /* Color del texto */
+	border-radius: 50px; /* Borde del boton */
+	letter-spacing: 2px; /* Espacio entre letras */
+	padding: 5px 10px; /* Relleno del boton */
+	position: fixed;
+	bottom: 40px;
+	right: 40px;
+	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+	z-index: 99;
+}
+
